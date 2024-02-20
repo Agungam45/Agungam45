@@ -1,6 +1,6 @@
 <h1>Hi, I'm Michael 🤓<br/>
   <a href="https://github.com/Agungam45">(Junior) Programmer</a>, 
-  <a href="https://www.linkedin.com/in/michaelagunga">Talent Aquisition Professional</a>, 
+  <a href="https://www.linkedin.com/in/michaelagunga">Talent Aquisition Professional</a> 
   <!--<a href="https://www.youtube.com/c/joshmadakor">YouTuber</a>-->
 </h1>
 
