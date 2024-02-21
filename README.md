@@ -5,9 +5,11 @@
 </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
+- <b>HTML/CSS Practice Projects</b>
+  - [TinDog responsive landing page built with Bootstrap](https://github.com/Agungam45/TinDog)<br>
+  - [MoveIt responsive landing page built with Bootstrap](https://github.com/Agungam45/move_It)
 
-<!-- - <b>HTML/CSS Practice Projects</b>
-  - [TinDog responsive landing page built with Bootstrap]([(https://github.com/Agungam45/TinDog)])
+<!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
