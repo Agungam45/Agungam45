@@ -5,7 +5,7 @@
 </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>HTML/CSS Practice Projects</b>
+  <b>HTML/CSS Practice Projects</b><bk><br>
   - [TinDog responsive landing page built with Bootstrap](https://github.com/Agungam45/TinDog)<br>
   - [MoveIt responsive landing page built with Bootstrap](https://github.com/Agungam45/move_It)
 
