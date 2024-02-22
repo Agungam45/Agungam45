@@ -6,6 +6,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
   <b>HTML/CSS Practice Projects</b><bk><br>
+  - [Expanding Cards Project built with JavaScript, HTML & CSS](https://github.com/Agungam45/Expanding_Cards)<br>
   - [TinDog responsive landing page built with Bootstrap](https://github.com/Agungam45/TinDog)<br>
   - [MoveIt responsive landing page built with Bootstrap](https://github.com/Agungam45/move_It)
 
